@@ -1,5 +1,5 @@
 # Password Generator  
-In this day and age, protecting our digital lives is crucial. Simple passwords like birthdays, pets’ names, or “1234” just don’t cut it because they’re easy to guess and unsafe.  
+In this day and age, protecting our digital lives is crucial. Simple passwords like birthdays, pets’ names, or “1234” don’t suffice because they might be easy to guess or unsafe.  
 This project taught me how to create a **random password generator** that combines letters, numbers, and symbols to generate strong, unpredictable passwords for better security.  
 
 ## What I learned
